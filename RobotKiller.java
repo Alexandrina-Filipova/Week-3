@@ -63,9 +63,7 @@ public class RobotKiller {
                     }
                 }
             } while (firstElectricityNumber == secondElectricityNumber);
-//             else {
-//                System.out.println("Try again!");
-//            }
+
         } while (countHits > 0);
     }
 }
